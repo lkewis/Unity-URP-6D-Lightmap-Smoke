@@ -1,5 +1,8 @@
 # Unity URP 6D Lightmap Smoke
 An example of 6D Lightmap texture shading for smoke in Unity URP
+```
+See video description for more details: https://youtu.be/gBHmwUx-Jco
+```
  
 ### Prerequisites
 
