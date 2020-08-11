@@ -4,7 +4,7 @@ An example of 6D Lightmap texture shading for smoke in Unity URP
 I created the smoke simulation in EmberGen and exported as a 64 frame VDB.
 I rendered the 6 channel lighting with an Arnold Volume using Red/Green lights
 for Right+Left, Top+Bottom, Back+Front then composited into 2x 4K textures
-(64 frame sprite sheet @ 512px, RGB channels= X+,Y,+Z+ / X-,Y-,Z-). I built
+(64 frame sprite sheet @ 512px, RGB channels= X+,Y+,Z+ / X-,Y-,Z-). I built
 a ShaderGraph in Unity URP that reads the flipbook animations and splits into
 each channel to contribute to lighting for the smoke texture.
 
