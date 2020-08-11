@@ -16,9 +16,12 @@ Steps:
 ```
 Create new URP project in Unity
 ```
+```
 Keep the default settings and assets
 ```
+```
 Import the .unitypackage from this repo
+```
 ```
 Everything should work correctly
 ```
@@ -31,9 +34,12 @@ Steps:
 ```
 Download VDB folder from https://www.dropbox.com/s/vsepg8pm6avf3d9/VDB_2.zip?dl=0
 ```
+```
 Load the Cinema 4D scene
 ```
+```
 Click on the Arnold Volume and change the file path to the location you unzipped the VDB folder to
+```
 ```
 Enable 2 sets of lights for each render stage. Right+Left or Top+Bottom or Front+Back
 ```
