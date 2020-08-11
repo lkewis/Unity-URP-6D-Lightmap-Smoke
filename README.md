@@ -31,7 +31,7 @@ Keep the default settings and assets
 Import the .unitypackage from this repo
 ```
 ```
-Everything should work correctly
+View the scene in Assets>__Project>_Scenes>SmokeTests
 ```
 
 ### Arnold C4DtoA Render
