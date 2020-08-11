@@ -40,8 +40,9 @@ The included Cinema4D project file is my custom setup for rendering VDB animatio
 
 Steps:
 ```
-Download VDB folder from https://www.dropbox.com/s/vsepg8pm6avf3d9/VDB_2.zip?dl=0
+Download VDB folder from:
 ```
+[Dropbox VDB Folder](https://www.dropbox.com/s/vsepg8pm6avf3d9/VDB_2.zip?dl=0)
 ```
 Load the Cinema 4D scene
 ```
